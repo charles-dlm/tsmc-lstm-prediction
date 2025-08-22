@@ -1,0 +1,4 @@
+Train RMSE: 0.51
+Test RMSE: 7.77
+Train R²: 0.998
+Test R²: 0.968
