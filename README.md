@@ -102,10 +102,9 @@ The script generates two key plots:
 **IMPORTANT: This model is for educational and research purposes only and should NOT be used for actual investment decisions.** Financial markets exhibit highly non-linear behavior influenced by numerous unpredictable factors including economic events, geopolitical factors, market sentiment, and company-specific news. The model has inherent limitations such as historical bias, feature constraints (only OHLCV data), inability to predict unprecedented events, and susceptibility to different market regimes. Additionally, the model operates with a short prediction horizon, may underestimate volatility, and lacks risk management mechanisms. Remember that past performance is not indicative of future results, and the complexity of financial markets extends far beyond what any historical data-driven model can capture.
 
 
-
 ## Author
 
-- GitHub: [](https://github.com/charles-dlm)
-- LinkedIn: [](https://www.linkedin.com/in/charles-delemolle/)
-
+**Charles Delemolle**
+- GitHub: [@charles-dlm](https://github.com/charles-dlm)
+- LinkedIn: [Charles Delemolle](https://www.linkedin.com/in/charles-delemolle/)
 
